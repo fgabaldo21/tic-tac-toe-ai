@@ -1,1 +1,2 @@
-# tic-tac-toe-ai
+# AI protivnik u igri križić-kružič
+Jednostavni python bot kojeg je nemoguće pobjediti u igri križić-kružić. Temeljen je na minimax algoritmu. Igra se preko grafičkog sučelja koje se aktivira compilanjem koda. Početni gamemode je minimax AI. Pritiskom tipke 0 na tipkovnici aktivira se random ai, a pritiskom tipke g gamemode se mijenja u mod za 2 ljudska igrača. Pritiskom tipke r ploča za igranje se resetira. Kod je napravljen uz pomoć youtube tutoriala koji se nalazi [ovdje](https://www.youtube.com/watch?v=Bk9hlNZc6sE).
